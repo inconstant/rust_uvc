@@ -1,6 +1,6 @@
 [package]
-name = "rust_uvc"
+name = "rust_self_study"
 version = "0.1.0"
-authors = ["pi"]
+authors = ["k-masatany"]
 
 [dependencies]
